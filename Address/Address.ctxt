@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ housenum()
+comment1.params=
+comment1.target=java.lang.String\ street()
+comment2.params=
+comment2.target=java.lang.String\ city()
+comment3.params=
+comment3.target=java.lang.String\ state()
+comment4.params=
+comment4.target=int\ postalcode()
+numComments=5

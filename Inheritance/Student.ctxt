@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getName()
+comment1.params=
+comment1.target=double\ getGPA()
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=b
+comment3.target=void\ year(java.lang.String)
+comment4.params=a
+comment4.target=void\ thesis(java.lang.String)
+comment5.params=
+comment5.target=void\ FINALPART()
+numComments=6
