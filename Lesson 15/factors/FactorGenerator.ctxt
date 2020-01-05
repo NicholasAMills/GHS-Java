@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=FactorGenerator(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FactorGenerator\r\n
+comment1.params=b
+comment1.target=void\ factor(int)
+numComments=2

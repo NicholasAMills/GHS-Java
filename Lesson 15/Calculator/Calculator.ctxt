@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculator()
+comment1.params=
+comment1.target=void\ Addition()
+comment2.params=
+comment2.target=void\ Subtraction()
+comment3.params=
+comment3.target=void\ Multiplication()
+comment4.params=
+comment4.target=void\ Average()
+comment5.params=
+comment5.target=void\ Maximum()
+comment6.params=
+comment6.target=void\ Minimum()
+numComments=7

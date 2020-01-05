@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=Change(int)
+comment1.params=
+comment1.target=int\ Quarters()
+comment2.params=
+comment2.target=int\ Dimes()
+comment3.params=
+comment3.target=int\ Nickels()
+comment4.params=
+comment4.target=int\ Pennies()
+numComments=5
