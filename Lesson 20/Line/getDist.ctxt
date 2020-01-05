@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=A\ B\ C\ x\ y
+comment0.target=void\ getDist(double,\ double,\ double,\ double,\ double)
+numComments=1
